@@ -52,10 +52,13 @@ Les vendeurs ont accès à plusieurs fonctionnalités pour faciliter leur travai
 - 🖨️ **Impression de factures** :
    - Après la facturation, les vendeurs peuvent imprimer les factures pour chaque commande. Ils peuvent également fournir au client un aperçu du montant total et ajuster la quantité avant la validation si nécessaire.
 
+## 🎥 Démonstration Vidéo
 
- 
+Pour une meilleure visualisation du fonctionnement de notre application, vous pouvez consulter la vidéo suivante qui montre en détail les principales fonctionnalités de l'application mobile et desktop.
+
+[Voir la démonstration vidéo](login.png) 🎬
 
 
 
-![Texte alternatif](login.png)
+
 
